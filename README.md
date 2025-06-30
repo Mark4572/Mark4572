@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Mark4572 (Mark)
-- 👀 I’m interested to learn F#
-- 🌱 I’m currently learning Python
-- 🎯 I'm currently programming my first app in Python
+Hi :^)
 
   
 
